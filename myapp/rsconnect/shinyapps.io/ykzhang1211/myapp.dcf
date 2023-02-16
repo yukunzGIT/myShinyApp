@@ -1,0 +1,13 @@
+name: myapp
+title: myapp
+username:
+account: ykzhang1211
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8327376
+bundleId: 6852197
+url: https://ykzhang1211.shinyapps.io/myapp/
+when: 1676517891.03382
+lastSyncTime: 1676517891.03386
+asMultiple: FALSE
+asStatic: FALSE
